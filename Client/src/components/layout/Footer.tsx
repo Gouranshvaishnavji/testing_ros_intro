@@ -137,7 +137,7 @@ const Footer: React.FC<FooterProps> = ({
                             </div>
                             <div className="footer__logo-text">
                                 <h3 className="footer__logo-title">ROS</h3>
-                                <p className="footer__logo-subtitle">Republic of Subjiwala</p>
+                                <p className="footer__logo-subtitle">Republic of Sabziwala</p>
                             </div>
                         </div>
                         <p className="footer__description">

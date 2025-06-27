@@ -4,8 +4,6 @@ import { motion } from 'framer-motion';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import '../styles/aboutPage.scss';
-
-// Assets
 import missionSvg from '../assets/about/mission.svg';
 import image2 from '../assets/about/image2.svg';
 import jpSvg from '../assets/about/Jp.svg';

@@ -74,7 +74,7 @@ const Navbar: React.FC<NavbarProps> = ({
                         </div>
                         <div className="navbar__logo-text">
                             <span className="navbar__logo-main">ROS</span>
-                            <span className="navbar__logo-sub">Republic of Subjiwala</span>
+                            <span className="navbar__logo-sub">Republic of Sabziwala</span>
                         </div>
                     </Link>
                 </div>
