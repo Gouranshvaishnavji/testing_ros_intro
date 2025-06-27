@@ -90,12 +90,12 @@ const Footer: React.FC<FooterProps> = ({
     const defaultContactInfo = {
         email: 'hello@subjiwala.com',
         phone: '+1 (555) 123-4567',
-        address: 'Republic of Subjiwala, Digital Agriculture Hub'
+        address: 'Republic of Sabziwala, Digital Agriculture Hub'
     };
 
     // Default company info
     const defaultCompanyInfo = {
-        name: 'ROS - Republic of Subjiwala',
+        name: 'ROS - Republic of Sabziwala',
         description: 'Connecting local vegetable vendors, consumers, and investors for a sustainable agricultural future.',
         established: '2024'
     };
